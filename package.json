@@ -1,0 +1,11 @@
+{
+  "name": "wordpress-scaffolding",
+  "version": "1.0.0",
+  "description": "A new project",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-shell": "latest",
+    "grunt-deployments": "latest",
+    "bower": "latest"
+  }
+}

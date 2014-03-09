@@ -1,0 +1,16 @@
+{
+  "name": "project-packages",
+  "version": "1.0.0",
+  "main": [
+    "./css/bootstrap.css"
+  ],
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies" : {
+    "bootstrap" : "latest",
+    "holderjs" : "latest",
+    "selectivizr" : "latest",
+    "modernizr" : "latest"
+  }
+}
